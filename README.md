@@ -1,5 +1,6 @@
 **UC Berekely-AIML Professional certificate. Module 20. Ensemble models**
 
+
 **Majority rule, collective wisdom, and voting systems in machine learning and artificial intelligence**
 
 **Introduction**
